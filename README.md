@@ -1,4 +1,4 @@
-This is our Software Engineering Project-> MyOnlineDukaan--E-commerce Website
+This repository contains-> MyOnlineDukaan--E-commerce Website
 In Frontend we had used CSS JavaScript React
 In Backend we had used MongoDb cloud for our database storage, Stripe for payment gateway, NodeJS, Express and different packages for different purposes.
 # Getting Started with Create React App
